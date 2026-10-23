@@ -1,7 +1,7 @@
 # Actividad 3: Interfaz Gráfica de Usuario y Gestión de Eventos
 **Asignatura:** Programación Orientada a Objetos  
 **Universidad Nacional de Colombia - Sede Medellín**  
-**Estudiante:** Nairalzauraj Ruiz Lopez
+**Estudiante:** Nairalzaurak Ruiz Lopez
 **Docente:** Walter Hugo Arboleda Mazo  
 
 ## Contenido del Repositorio
